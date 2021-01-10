@@ -13,11 +13,11 @@ function fizzBuzz(num){
         console.log("FizzBuzz");
     }
     // check if the current iteration (i) is a multiple of 3, if so print 'Fizz'
-    else if (i % 3 === 0 {
+    else if (i % 3 === 0) {
         console.log ("Fizz");
     }
     // check if the current iteration (i) is a multiple of 5, if so print 'Buzz'
-    else if (i % 5 === 0 {
+    else if (i % 5 === 0) {
         console.log ("Buzz");
     }
     // else, print 1 
